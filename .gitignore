@@ -1,5 +1,6 @@
 time-*/
 workspace.xml
+.idea/
 cmake-build-*/
 cmake-time-*/
 _matter.zip
